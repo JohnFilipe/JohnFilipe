@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm João Terroa 👋</h1>
 <h3 align="center">Student at Faculdade de Ciências da Universidade de Lisboa 🎓 .</h3>
 
-- ⚛️ I’m in my 1st year of Informatics Masters and I'm currently learning Software Development, Web Development and other programming languages
+- ⚛️ I’m in my 1st year of Informatics Masters and I'm currently learning Software Development, Web Development and a myriad of programming languages
 
 - 📫 How to reach me: **joaoterroa2@gmail.com**
 <br>
